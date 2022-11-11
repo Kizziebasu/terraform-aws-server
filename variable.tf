@@ -13,5 +13,5 @@ variable "hw" {
 variable "name" {
   type = string
   default = "krats-server-3"
-  description = "Enter your server name"
+  description = "Enter your servername"
 }
